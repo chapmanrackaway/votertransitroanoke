@@ -52,8 +52,8 @@
       "place": "William Fleming High School (Auxiliary Gym)",
       "address": "3326 Ordway Drive NW, Roanoke, VA 24017",
       "note": "Voting is in the auxiliary gym, which you can't reach through the school's front entrance.",
-      "lat": 37.301831,
-      "lon": -79.972571,
+      "lat": 37.306398,
+      "lon": -79.978212,
       "early": false
     },
     {
@@ -142,8 +142,8 @@
       "precinct": "Raleigh Court",
       "place": "Christ Lutheran Church",
       "address": "2011 Brandon Avenue SW, Roanoke, VA 24015",
-      "lat": 37.258016,
-      "lon": -79.983823,
+      "lat": 37.257773,
+      "lon": -79.984046,
       "early": false
     },
     {
@@ -215,8 +215,8 @@
       "precinct": "Forest Park",
       "place": "Forest Park Academy",
       "address": "2730 Melrose Avenue NW, Roanoke, VA 24017",
-      "lat": 37.288328,
-      "lon": -79.979269,
+      "lat": 37.288102,
+      "lon": -79.980523,
       "early": false
     },
     {
@@ -234,8 +234,8 @@
       "place": "Office of Voter Registration and Elections (early voting)",
       "address": "317 Kimball Avenue NE, Roanoke, VA 24016",
       "note": "Roanoke City's only early in-person voting site. Check the city's elections page for daily hours before you go.",
-      "lat": 37.27502,
-      "lon": -79.935522,
+      "lat": 37.275045,
+      "lon": -79.935577,
       "early": true
     }
   ],
